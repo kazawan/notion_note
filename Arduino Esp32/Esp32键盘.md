@@ -1,10 +1,7 @@
 # Esp32键盘
 
-![Arduino Esp32/Esp32键盘/B3A1F484-B230-43D2-A1D7-F499F3937CD9.jpeg)
+![成品](https://github.com/kazawan/notion_note/blob/main/Arduino%20Esp32/Esp32%E9%94%AE%E7%9B%98/B3A1F484-B230-43D2-A1D7-F499F3937CD9.jpeg)
 
-`demo1`
-
-![ED69F0FB-3411-4C70-A8E4-BAA681AF466F.jpeg](Esp32%E9%94%AE%E7%9B%98%20f032537d01eb4722bc5ad22e6ea5415d/ED69F0FB-3411-4C70-A8E4-BAA681AF466F.jpeg)
 
 - [x]  按键冲突
 
