@@ -1,7 +1,7 @@
 # Esp32键盘
 
-![成品](https://github.com/kazawan/notion_note/blob/main/Arduino%20Esp32/Esp32%E9%94%AE%E7%9B%98/B3A1F484-B230-43D2-A1D7-F499F3937CD9.jpeg = 400x400)
 
+<img src="https://github.com/kazawan/notion_note/blob/main/Arduino%20Esp32/Esp32%E9%94%AE%E7%9B%98/B3A1F484-B230-43D2-A1D7-F499F3937CD9.jpeg" width="400px" alt="成品" >
 
 - [x]  按键冲突
 
